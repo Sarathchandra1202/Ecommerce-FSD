@@ -1,0 +1,13 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+Username: sunny
+Password: pani
+
+USER LOGIN:
+
+Username: sarathchandra7680@gmail.com
+Password: pani
+
+DATABASE: ecomm
